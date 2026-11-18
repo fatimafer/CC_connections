@@ -7,7 +7,7 @@
 
 ### Subir los datos a las plataformas cloud
 Antes de instalarlo, es necesario subir los datos a las nubes de AWS y GCP
-Podemos ayudarnos de este repositorio https://github.com/fatimafer/aws_gcloud.git .
+Podemos ayudarnos de este repositorio https://github.com/fatimafer/upload_aws_gcloud.git .
 
 ### Creación del playground
 Una vez subidos los datos a las nubes correspondientes, creamos un entorno playground de DATA 360 a través de esta página:
@@ -116,10 +116,10 @@ cd ~
 
 Clonamos el respositorio y nos situamos en la carpeta donde lo hemos clonado.
 ```
-git clone https://github.com/fatimafer/DC_connections.git
+git clone https://github.com/fatimafer/CC_connections.git
 ```
 ```
-cd DC_connections
+cd CC_connections
 ```
 
 Si estamos conectados a otras org de Salesforce en CLI, nos desconectamos.
@@ -166,4 +166,4 @@ Dado que estas conexiones viajan sin credenciales por motivos de seguridad, una 
 
 
 ## Seguir las instrucciones del siguiente repositorio
-Navegar hacia https://github.com/fatimafer/DC_objects.git y seguir las instrucciones    
+Navegar hacia https://github.com/fatimafer/CC_objects.git y seguir las instrucciones    
