@@ -142,6 +142,20 @@ Y si todo ha ido bien, desplegamos.
 sf project deploy start --manifest manifest/package.xml --target-org coral-cloud
 ```
 
+* Volvemos al playground creado, pulsamos el engranaje de la parte superior derecha y seleccionamos Data Cloud Setup.
+
+    ![alt text](images/DC_Setup.png)
+
+
+* Escribimos Data Kits en el buscador y hacemos click en el texto Connectors.
+
+    ![alt text](images/CC_Connector.png)
+
+
+* Hacemos click en el botón superior derecho de Datakit Deploy.
+
+    ![alt text](images/DK_Deploy.png)
+
 
 ## Activar las conexiones
 
